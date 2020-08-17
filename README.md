@@ -1,6 +1,8 @@
 ### Hi there 👋 I'm Carlos
+<img src="https://raw.githubusercontent.com/nycker/nycker/master/octo-nycker.png">
 
-<img src="https://raw.githubusercontent.com/nycker/nycker/master/octo-nycker.png>
+I am a software dev engineer and problem solver. I'm passionate for technology and science. Some tech I love are: Pyhon, JS, Markup. 
+
 ## Find me around the web 🌎: 
           - Github <a href="https://github.com/nycker/">Github</a>
 
