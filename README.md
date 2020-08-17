@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Carlos
-<img src="https://raw.githubusercontent.com/nycker/nycker/master/octo-nycker.png" width=300 >
+<img src="https://raw.githubusercontent.com/nycker/nycker/master/octo-nycker.png" align="center" width=500 >
 
 I am a software dev engineer and problem solver. I'm passionate for technology and science. Some tech I love are: Pyhon, JS, Markup. 
 
