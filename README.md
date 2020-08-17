@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Carlos
+
+<img src="https://raw.githubusercontent.com/nycker/nycker/master/octo-nycker.png>
+## Find me around the web 🌎: 
+          - Github <a href="https://github.com/nycker/">Github</a>
 
 <!--
 **nycker/nycker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
