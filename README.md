@@ -1,7 +1,9 @@
 ### Hi there 👋 I'm Carlos
 <img src="https://raw.githubusercontent.com/nycker/nycker/master/octo-nycker.png" align="center" width=500 >
 
-I am a software dev engineer and problem solver. I'm passionate for technology and science. Some tech I love are:
+I am a software dev engineer and problem solver. I'm passionate for technology and science. 
+
+# Languages and Tools
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/hritik5102)](https://github.com/nycker) 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/nycker)](https://github.com/nycker) 
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/nycker)](https://github.com/nycker)
