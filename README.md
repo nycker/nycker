@@ -11,7 +11,7 @@ I am a software dev engineer and problem solver. I'm passionate for technology a
 
 [![FLUTTER](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&link=https://github.com/nycker)](https://github.com/nycker) 
 [![ANGULAR](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&link=https://github.com/nycker)](https://github.com/nycker) 
-[![TYPESCRIPT]https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&link=https://github.com/nycker))](https://github.com/nycker) 
+[![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&link=https://github.com/nycker)](https://github.com/nycker) 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/nycker)](https://github.com/nycker) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/nycker)](https://github.com/nycker) 
 [![AzureDevops](https://img.shields.io/badge/-AzureDevops-0175C2?style=flat&logo=azureDevops&link=https://github.com/nycker)](https://github.com/nycker) 
