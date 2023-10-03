@@ -6,9 +6,15 @@
                     <img src="https://raw.githubusercontent.com/nycker/nycker/master/octo-nycker.png" align="left" width=250 >
           </div>
           <div>
-                    <p>
-                              I am a software dev engineer and problem solver. I'm passionate for technology and science.
-                    </p>
+👋 Hello there! I'm Carlos, a Software Development Engineer with a passion for building innovative solutions and crafting immersive experiences. Currently, I'm thriving as a Product Manager for a cutting-edge SaaS project.
+
+🚀 I have a versatile skill set that includes expertise in Python, JavaScript, HTML, TypeScript, and more. I'm also well-versed in frameworks like Angular and technologies such as Docker, FastAPI, and Python Flutter. My technical toolkit allows me to tackle a wide range of software development challenges.
+
+🌎 I'm a bilingual communicator, fluent in both English and Spanish, which allows me to collaborate effectively with diverse teams and connect with a global community of developers.
+
+📚 Outside of the tech world, you'll often find me engrossed in a good book or catching up on the latest movies. I'm an avid gamer, especially when it comes to first-person shooters and zombie apocalypse-themed games. This passion for gaming fuels my ambition to someday create my own captivating game experiences.
+
+🎮 Feel free to explore my GitHub repositories to see some of the projects I've been working on. I'm always eager to learn, collaborate, and contribute to open-source projects. Let's connect and build something amazing together!
                     <p align='center' >
                               <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=nycker.visitor-badge&left_color=gray&right_color=blue"></a>
                     </p>
