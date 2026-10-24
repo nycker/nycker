@@ -11,8 +11,25 @@
 
 ---
 
+<div>
+  <h3>💻 About Me</h3>
+  <p>
+    I am a Technology Leader and Senior Software Engineer with over 12 years of hands-on technical background spanning full-stack development, product management, and engineering leadership. Currently serving as CTO for a SaaS platform associated with British operations in Mexico, I bridge the gap between business strategy and deep technical execution.
+  </p>
+  <p>
+    My core expertise revolves around designing and scaling robust backend architectures (Python, FastAPI, Go, gRPC, PostgreSQL), containerized cloud infrastructure (Docker, Azure, Linode, Cloudflare), and building responsive, interactive frontend applications. Beyond enterprise software, I actively explore 2D game development using Godot and experiment with real-time multiplayer web architectures.
+  </p>
+</div>
+
+
+
+---
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+<a href="https://angular.io" target="_blank" rel="noreferrer">
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
