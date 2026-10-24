@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nycker&label=Profile%20views&color=0e75b6&style=flat" alt="nycker" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nycker.nycker" alt="Profile views" />
   <img src="https://img.shields.io/badge/Experience-12%2B%20Years-blue?style=flat" alt="Experience" />
   <img src="https://img.shields.io/badge/Focus-Fullstack%20%2F%20Cloud-green?style=flat" alt="Focus" />
 </p>
