@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Nycker 👋</h1>
+<h1 align="center">Hi there, I'm Carlos 👋</h1>
 <p align="center">
   <b>CTO & Senior Software Engineer</b> | Building robust SaaS platforms, distributed systems, and backend infrastructure.
 </p>
